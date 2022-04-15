@@ -1,4 +1,4 @@
-The xv6 address space is originally set up like this:
+The xv6 address space is originally set up like this:__
 code
 guard page (inaccessible, one page)
 stack (fixed-sized, one page)
